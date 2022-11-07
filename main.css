@@ -1,0 +1,41 @@
+.contenedor{
+    padding: 1rem;
+    background-color: rgb(13, 219, 226);
+    color: white;
+}
+
+.introduccion{
+    color: rgb(255, 0, 119);
+    background-color: pink;
+    border: 2px solid rgb(255, 0, 119);
+    border-radius: .5rem;
+    min-height: 20vh;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.container img{
+    padding: 1rem;
+    margin: 5px;
+}
+.textoIntroduccion{
+    color: rgb(255, 0, 119);
+    background-color: pink;
+    font-family: 'Indie Flower', cursive;
+    display: block;
+    }
+.proposito{
+    background-color: rgb(226, 11, 226);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 1rem 2rem;
+    margin: 3rem;
+    border: 5px solid rgb(13, 219, 226);
+    border-top: 1rem;
+    }
+    
+    .imagenesThiago{
+        flex-direction: row;
+        flex-wrap: wrap;
+        background-color: rgb(230, 29, 230);
+    }
